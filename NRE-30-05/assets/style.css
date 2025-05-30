@@ -225,7 +225,7 @@ body {
 }
 
 /* Título dos estudantes */
-.estudante-título {
+.estudante-titulo {
     text-align: center; /* Centralizar o texto */
     padding: 15px 0 30px; /* Valores de preenchimento */
     font-size: 36px; /* Tamanho da fonte grande */
